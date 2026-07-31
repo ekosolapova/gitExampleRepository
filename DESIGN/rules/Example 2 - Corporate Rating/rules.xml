@@ -1,0 +1,9 @@
+<project>
+    <name>Example 2 - Corporate Rating</name>
+    <modules>
+        <module>
+            <name>Corporate Rating</name>
+            <rules-root path="Corporate Rating.xlsx"/>
+        </module>
+    </modules>
+</project>
