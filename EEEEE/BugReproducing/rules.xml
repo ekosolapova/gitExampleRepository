@@ -1,0 +1,9 @@
+<project>
+    <name>BugReproducing</name>
+    <modules>
+        <module>
+            <name>BugReproducing</name>
+            <rules-root path="BugReproducing.xlsx"/>
+        </module>
+    </modules>
+</project>
